@@ -1,2 +1,4 @@
-# wt-mean
-Customized and optimized MEAN stack
+# MEAN development and deployment boilerplate
+
+
+### Customized and optimized MEAN stack
